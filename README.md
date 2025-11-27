@@ -18,26 +18,26 @@ This project explores user activity, sleep, and calorie-burn behaviors using Fit
 - [Full Report (PDF)](Bellabeat_Report_AMINULLAHI_Abdulkabir_Adebayo.pdf)  
 - [Slide Deck](Bellabeat_Slides_AMINULLAHI_Abdulkabir_Adebayo.pptx)  
 - [Markdown Report](Bellabeat_Report_AMINULLAHI_Abdulkabir_Adebayo.md)  
-- [Dashboard (PDF)](Bellabeat_Dashboard.pdf)
+- [Dashboard (PDF)](Bellabeat Dashboard.pdf)
 
 ### 📸 Dashboard Visuals  
 <p align="center">
-  <img src="C:/Users/hp/Downloads/screenshorts/steps_trend.png" width="60%">
+  <img src="steps_trend.png" width="60%">
   <br><em>Daily Average Steps Over Time</em>
 </p>
 
 <p align="center">
-  <img src="C:/Users/hp/Downloads/screenshorts/sleep_vs_steps.png" width="60%">
+  <img src="sleep_vs_steps.png" width="60%">
   <br><em>Sleep Duration vs Daily Step Count</em>
 </p>
 
 <p align="center">
-  <img src="C:/Users/hp/Downloads/screenshorts/calories_trend.png" width="60%">
+  <img src="calories_trend.png" width="60%">
   <br><em>Daily Average Calories Burned Over Time</em>
 </p>
 
 <p align="center">
-  <img src="C:/Users/hp/Downloads/screenshorts/user_segments.png" width="60%">
+  <img src="user_segments.png" width="60%">
   <br><em>Distribution of User Activity Levels</em>
 </p>
 
