@@ -15,10 +15,10 @@ Here, I showcase projects where I use **Google BigQuery**, **BigQuery Standard S
 This project explores user activity, sleep, and calorie-burn behaviors using Fitbit data to help Bellabeat improve wellness-focused marketing strategies.
 
 ### 🔗 Project Files  
-- [Full Report (PDF)](Bellabeat-Case-Study/Bellabeat_Report_AMINULLAHI_Abdulkabir_Adebayo.pdf)  
-- [Slide Deck](Bellabeat-Case-Study/Bellabeat_Slides_AMINULLAHI_Abdulkabir_Adebayo.pptx)  
-- [Markdown Report](Bellabeat-Case-Study/Bellabeat_Report_AMINULLAHI_Abdulkabir_Adebayo.md)  
-- [Dashboard (PDF)](Bellabeat-Case-Study/Bellabeat_Dashboard.pdf)
+- [Full Report (PDF)](Bellabeat_Report_AMINULLAHI_Abdulkabir_Adebayo.pdf)  
+- [Slide Deck](Bellabeat_Slides_AMINULLAHI_Abdulkabir_Adebayo.pptx)  
+- [Markdown Report](Bellabeat_Report_AMINULLAHI_Abdulkabir_Adebayo.md)  
+- [Dashboard (PDF)](Bellabeat_Dashboard.pdf)
 
 ### 📸 Dashboard Visuals  
 <p align="center">
