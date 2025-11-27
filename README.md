@@ -1,3 +1,7 @@
+Hi, I’m Adebayo!  
+I am a data analyst skilled in SQL, BigQuery, Tableau, and storytelling analytics.  
+This portfolio showcases my ability to clean, analyze, and visualize data to drive insights.
+
 # Data Analytics Portfolio  
 By: AMINULLAHI, Abdulkabir Adebayo  
 
