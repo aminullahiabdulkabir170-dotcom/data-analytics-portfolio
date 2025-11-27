@@ -37,7 +37,7 @@ This project explores user activity, sleep, and calorie-burn behaviors using Fit
 </p>
 
 <p align="center">
-  <img src="user_segments.png" width="60%">
+  <img src="users_segments.png" width="60%">
   <br><em>Distribution of User Activity Levels</em>
 </p>
 
