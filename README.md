@@ -73,4 +73,6 @@ This portfolio highlights the journey of my technical skills, analysis style, an
 # 📫 Contact  
 Feel free to connect or reach out!  
 - **Email:** *aminullahiabdulkabir170@gmail.com*  
-- **LinkedIn:** **  
+- **LinkedIn:**www.linkedin.com/in/
+abdulkabir-aminullahi-769695261
+ **  
